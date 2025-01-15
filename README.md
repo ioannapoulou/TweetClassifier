@@ -19,6 +19,6 @@ The project, consisting of four sub-projects, aims to develop a sentiment classi
 
 
 ## Evaluation
-Each project is accompanied by its own fully detailed report, which includes all the experiments that were conducted. For the evaluation of the models, the F1 score, loss, ROC curves, and confusion matrices were taken into consideration.
+Each project is accompanied by a comprehensive report that thoroughly details all the experiments conducted. The evaluation of the models takes into account several key metrics, including the F1 score, loss, ROC curves, and confusion matrices, to assess their performance from different angles.
 
 
